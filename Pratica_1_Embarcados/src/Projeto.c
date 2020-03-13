@@ -1,4 +1,5 @@
-#include "Projeto.h"
+#include "cinema.h"
+#include "geresessoes.h"
 
 int main()
 {
